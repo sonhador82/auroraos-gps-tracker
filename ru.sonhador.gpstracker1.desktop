@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.sonhador.gpstracker1
+Exec=/usr/bin/ru.sonhador.gpstracker1
+Name=GpsTracker
+Name[ru]=GpsTracker
+
+[X-Sailjail]
+Permissions=Documents;Internet;Location
+OrganizationName=ru.sonhador
+ApplicationName=gpstracker1
+ExecDBus=/usr/bin/ru.sonhador.gpstracker1
